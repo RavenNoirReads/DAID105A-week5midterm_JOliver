@@ -1,16 +1,16 @@
 body {
  text-align: center; /* This is a hack for older browsers to center the page */
 }
-/* Add a black background color to the top navigation */
+
 .topnav {
-  background-color: #333;
+  background-color: #5e5656;
   overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
-  color: #f2f2f2;
+  float: right;
+  color: #dbd8d8;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
