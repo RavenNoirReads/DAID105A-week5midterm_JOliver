@@ -24,33 +24,3 @@
   background-color: #7772b9;
   color: white;
 }
-
-#container {
-  margin: 0 auto;    /* This centers the page in modern browsers */
-  text-align: left;  /* This is a hack for older browsers to center the page */
-  width: 100%;      /* This sets our total page width */
-}
-
-#header {
-  width: 100%;      /* This sets the header to stretch the full page width */
-}
-
-#navigation li {
-  display: inline-block;   /* Make our navigation display in a line */
-}
-
-#content {
-  float: right;      /* This causes the content to move to the right */
-  width: 70%;      /* We need to set the width whenever we float an element */
-}
-
-#sidebar {
-  float: left;       /* This causes the sidebar to move to the left */
-  width: 30%;      /* We need to set the width whenever we float an element */
-}
-
-#footer {
-  clear: both;       /* This makes sure that the footer clears both the sidebar and content floats */
-  width: 100%;      /* This sets the footer to stretch the full page width */
-}
-
